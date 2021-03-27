@@ -1,0 +1,11 @@
+{
+  "salary" : 50000,
+  "bonus" : 1000,
+  "other_income" : 6500,
+  "salary_sacrified" : {
+    "child_voucher" : 1488,
+    "pension" : 2000,
+    "share_scheme" : 1500,
+    "others": 312
+  }
+}

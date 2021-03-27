@@ -1,0 +1,29 @@
+{
+  "personal_allowance" : 12500,
+  "base_rate" : {
+    "start" : 12501,
+    "end" : 50000,
+    "tax_percentage" : "20"
+  },
+  "higher_rate" : {
+    "start" : 50001,
+    "end" : 150000,
+    "tax_percentage" : "40"
+  },
+  "additonal_rate" : {
+    "start" : 150001,
+    "end" : 1000000000,
+    "tax_percentage" : "45"
+  },
+  "ni_allowance" : 9504,
+  "ni_primary" : {
+    "start" : 9504,
+    "end"   : 50004,
+    "percentage" : "12"
+  },
+  "ni_upper_limit" : {
+    "start" : 50004,
+    "end"   : 1000000000,
+    "percentage" : "2"
+  }
+}
